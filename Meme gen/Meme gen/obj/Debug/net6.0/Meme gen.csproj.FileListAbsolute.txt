@@ -1,0 +1,19 @@
+D:\My project (1)\Meme gen\Meme gen\bin\Debug\net6.0\Meme gen.exe
+D:\My project (1)\Meme gen\Meme gen\bin\Debug\net6.0\Meme gen.deps.json
+D:\My project (1)\Meme gen\Meme gen\bin\Debug\net6.0\Meme gen.runtimeconfig.json
+D:\My project (1)\Meme gen\Meme gen\bin\Debug\net6.0\Meme gen.dll
+D:\My project (1)\Meme gen\Meme gen\bin\Debug\net6.0\Meme gen.pdb
+D:\My project (1)\Meme gen\Meme gen\bin\Debug\net6.0\Colorful.Console.dll
+D:\My project (1)\Meme gen\Meme gen\bin\Debug\net6.0\CSharpDiscordWebhook.NET.dll
+D:\My project (1)\Meme gen\Meme gen\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\My project (1)\Meme gen\Meme gen\obj\Debug\net6.0\Meme gen.csproj.AssemblyReference.cache
+D:\My project (1)\Meme gen\Meme gen\obj\Debug\net6.0\Meme gen.GeneratedMSBuildEditorConfig.editorconfig
+D:\My project (1)\Meme gen\Meme gen\obj\Debug\net6.0\Meme gen.AssemblyInfoInputs.cache
+D:\My project (1)\Meme gen\Meme gen\obj\Debug\net6.0\Meme gen.AssemblyInfo.cs
+D:\My project (1)\Meme gen\Meme gen\obj\Debug\net6.0\Meme gen.csproj.CoreCompileInputs.cache
+D:\My project (1)\Meme gen\Meme gen\obj\Debug\net6.0\Meme gen.csproj.CopyComplete
+D:\My project (1)\Meme gen\Meme gen\obj\Debug\net6.0\Meme gen.dll
+D:\My project (1)\Meme gen\Meme gen\obj\Debug\net6.0\refint\Meme gen.dll
+D:\My project (1)\Meme gen\Meme gen\obj\Debug\net6.0\Meme gen.pdb
+D:\My project (1)\Meme gen\Meme gen\obj\Debug\net6.0\Meme gen.genruntimeconfig.cache
+D:\My project (1)\Meme gen\Meme gen\obj\Debug\net6.0\ref\Meme gen.dll
